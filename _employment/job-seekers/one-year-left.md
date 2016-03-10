@@ -43,7 +43,7 @@ Build:
 
 - Decide if pursuing a college degree, an advanced degree, or a vocational technical degree is the right path for you. 
 - Begin researching schools and programs that will help you reach your goals.
-- Consider [alternative options](LINK) such as on-the-job training or an apprenticeship. 
+- Consider [alternative options](put LINK here) such as on-the-job training or an apprenticeship. 
 - Research how to access your [GI Bill benefits](/education/gi-bill/) and the financial impact of pursuing an education versus a career. 
 
 
