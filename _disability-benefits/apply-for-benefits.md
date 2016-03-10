@@ -48,7 +48,7 @@ template: 7-get-page
 
 <div class="info-block" markdown="1">
 
-Average number of days to process disability-related claims during February 2016.
+Average number of days to process disability-related claims during February 2016..
 
 If you’ve already filed a claim, check on its progress through [eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-claim-status).
 
