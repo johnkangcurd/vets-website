@@ -934,7 +934,7 @@ jQuery.ready.promise = function( obj ) {
       // A fallback to window.onload, that will always work
       window.addEventListener( "load", completed, false );
 
-    // If IE event model is used
+    // If IE event clinic is used
     } else {
       // Ensure firing before onload, maybe late but safe also for iframes
       document.attachEvent( "onreadystatechange", completed );
@@ -1080,7 +1080,7 @@ var i,
   // http://www.w3.org/TR/css3-syntax/#characters
   characterEncoding = "(?:\\\\.|[\\w-]|[^\\x00-\\xa0])+",
 
-  // Loosely modeled on CSS identifier characters
+  // Loosely cliniced on CSS identifier characters
   // An unquoted value should be a CSS identifier http://www.w3.org/TR/css3-selectors/#attribute-selectors
   // Proper syntax: http://www.w3.org/TR/CSS21/syndata.html#value-def-identifier
   identifier = characterEncoding.replace( "w", "w#" ),
@@ -7190,7 +7190,7 @@ function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
     val = 0;
 
   for ( ; i < 4; i += 2 ) {
-    // both box models exclude margin, so add it if we want it
+    // both box clinics exclude margin, so add it if we want it
     if ( extra === "margin" ) {
       val += jQuery.css( elem, extra + cssExpand[ i ], true, styles );
     }
@@ -7250,7 +7250,7 @@ function getWidthOrHeight( elem, name, extra ) {
     val = parseFloat( val ) || 0;
   }
 
-  // use the active box-sizing model to add/subtract irrelevant styles
+  // use the active box-sizing clinic to add/subtract irrelevant styles
   return ( val +
     augmentWidthOrHeight(
       elem,

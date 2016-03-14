@@ -26,7 +26,7 @@ Several months after this experience, I was honored to be part of the small team
 
 #### Be quiet, respectful and empathetic.
 
-Unlike many projects where it's so easy — required, even — to insert design flourishes or a strong brand, it was clear that vets.gov has to be very different. This design has to be incredibly efficient, letting content and interactions take center stage.
+Unlike many projects where it's so easy — required, even — to insert design flourishes or a strong  usstate, it was clear that vets.gov has to be very different. This design has to be incredibly efficient, letting content and interactions take center stage.
 
 </div>
 

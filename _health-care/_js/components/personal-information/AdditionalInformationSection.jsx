@@ -1,8 +1,7 @@
 import React from 'react';
 
 import ErrorableCheckbox from '../form-elements/ErrorableCheckbox';
-import State from '../questions/State';
-import VaMedicalFacility from './VaMedicalFacility';
+import TwoLists from '../questions/TwoLists';
 
 class AdditionalInformationSection extends React.Component {
   render() {
@@ -26,9 +25,7 @@ class AdditionalInformationSection extends React.Component {
         <div className="row">
           <div className="small-12 columns">
             <h4>Select the VA Medical Facility which will be your preferred facility</h4>
-            <State value={this.props.data.facilityState}
-                onUserInput={(update) => {this.props.onStateChange('facilityState', update);}}/>
-            <VaMedicalFacility value={this.props.data.vaMedicalFacility}
+            <TwoLists value={this.props.data.vaMedicalFacility}
                 onValueChange={(update) => {this.props.onStateChange('vaMedicalFacility', update);}}/>
           </div>
         </div>
@@ -47,4 +44,3 @@ class AdditionalInformationSection extends React.Component {
 }
 
 export default AdditionalInformationSection;
-
