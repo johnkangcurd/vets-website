@@ -1,17 +1,11 @@
 import React from 'react';
-import _ from 'lodash';
 
 import ErrorableCheckbox from '../form-elements/ErrorableCheckbox';
 // import State from '../questions/State';
 import VaMedicalFacility from './VaMedicalFacility';
-import { vaMedicalFacilities } from '../../utils/options-for-select';
 
 
 class AdditionalInformationSection extends React.Component {
-
-  stateList() {
-    return Object.keys(vaMedicalFacilities);
-  }
 
   render() {
     return (
