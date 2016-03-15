@@ -1,9 +1,18 @@
 import React from 'react';
+import _ from 'lodash';
 
 import ErrorableCheckbox from '../form-elements/ErrorableCheckbox';
-import TwoLists from '../questions/TwoLists';
+// import State from '../questions/State';
+import VaMedicalFacility from './VaMedicalFacility';
+import { vaMedicalFacilities } from '../../utils/options-for-select';
+
 
 class AdditionalInformationSection extends React.Component {
+
+  stateList() {
+    return Object.keys(vaMedicalFacilities);
+  }
+
   render() {
     return (
       <div>
@@ -25,7 +34,7 @@ class AdditionalInformationSection extends React.Component {
         <div className="row">
           <div className="small-12 columns">
             <h4>Select the VA Medical Facility which will be your preferred facility</h4>
-            <TwoLists value={this.props.data.vaMedicalFacility}
+            <VaMedicalFacility value={this.props.data.vaMedicalFacility}
                 onValueChange={(update) => {this.props.onStateChange('vaMedicalFacility', update);}}/>
           </div>
         </div>
