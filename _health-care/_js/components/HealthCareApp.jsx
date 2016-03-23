@@ -129,9 +129,7 @@ class HealthCareApp extends React.Component {
             spouseGrossIncome: null,
             spouseNetIncome: null,
             spouseOtherIncome: null,
-            childrenGrossIncome: null,
-            childrenNetIncome: null,
-            childrenOtherIncome: null
+            children: []
           },
 
           'deductible-expenses': {
@@ -219,6 +217,7 @@ class HealthCareApp extends React.Component {
     switch (statePath[0]) {
       case 'financial-assessment':
         return {
+          children: statePath[1] === 'annual-income' ? this.state.applicationData['financial-assessment']['child-information'].children : undefined,
           receivesVaPension: this.state.applicationData['personal-information']['va-information'].receivesVaPension,
           neverMarried: this.state.applicationData['personal-information']['name-and-general-information'].maritalStatus === '' ||
             this.state.applicationData['personal-information']['name-and-general-information'].maritalStatus === 'Never Married'

@@ -1,5 +1,7 @@
 import React from 'react';
 
+import ChildIncome from './ChildIncome';
+import FixedTable from '../form-elements/FixedTable.jsx';
 import ErrorableTextInput from '../form-elements/ErrorableTextInput';
 import { isBlank, isValidMonetaryValue } from '../../utils/validations';
 
@@ -14,6 +16,26 @@ class AnnualIncomeSection extends React.Component {
   }
 
   // TODO: Figure out best way to enable users to change their response to pension
+
+  updateChildren() {
+    if (this.props.external === undefined || this.props.external.children === undefined) return;
+    if (this.props.external.children.length > 0) {
+      for (let i = 0; i < this.props.external.children.length; i++) {
+        const shortName = `${this.props.external.children[i].childFullName.first} ${this.props.external.children[i].childFullName.last}`;
+        if (this.props.data.children[i] === undefined) {
+          this.props.data.children[i] = {
+            childShortName: shortName,
+            childGrossIncome: null,
+            childNetIncome: null,
+            childOtherIncome: null
+          };
+        } else {
+          this.props.data.children[i].childShortName = shortName;
+        }
+      }
+    }
+  }
+
   render() {
     const message = 'Please enter only numbers and a decimal point if necessary (no commas or currency signs)';
     let notRequiredMessage;
@@ -28,6 +50,8 @@ class AnnualIncomeSection extends React.Component {
         </p>
       );
     }
+
+    this.updateChildren();
 
     return (
       <div>
@@ -123,26 +147,17 @@ class AnnualIncomeSection extends React.Component {
               onValueChange={(update) => {this.props.onStateChange('spouseOtherIncome', update);}}/>
         </div>
 
-        <div className="input-section">
-          <h6>Children</h6>
-          <ErrorableTextInput
-              errorMessage={this.isValidMonetaryValue(this.props.data.childrenGrossIncome, message)}
-              label="Children Gross Income"
-              value={this.props.data.childrenGrossIncome}
-              onValueChange={(update) => {this.props.onStateChange('childrenGrossIncome', update);}}/>
 
-          <ErrorableTextInput
-              errorMessage={this.isValidMonetaryValue(this.props.data.childrenNetIncome, message)}
-              label="Children Net Income"
-              value={this.props.data.childrenNetIncome}
-              onValueChange={(update) => {this.props.onStateChange('childrenNetIncome', update);}}/>
+        {this.props.external.children.length > 0 &&
+          <div className="input-section">
+            <h6>Children</h6>
+            <FixedTable
+                component={ChildIncome}
+                onRowsUpdate={(update) => {this.props.onStateChange('children', update);}}
+                rows={this.props.data.children}/>
+          </div>
+        }
 
-          <ErrorableTextInput
-              errorMessage={this.isValidMonetaryValue(this.props.data.childrenOtherIncome, message)}
-              label="Children Other Income"
-              value={this.props.data.childrenOtherIncome}
-              onValueChange={(update) => {this.props.onStateChange('childrenOtherIncome', update);}}/>
-        </div>
       </div>
     );
   }
