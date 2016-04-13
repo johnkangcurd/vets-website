@@ -84,6 +84,9 @@ collections:
   playbook:
     output: true
     permalink: /:collection/:path/index.html
+  veterans-choice:
+    output: true
+    permalink: /:collection/:path/index.html
 
 # Sets breadcrumbs per path
 defaults:
@@ -92,6 +95,10 @@ defaults:
     values:
       layout: "page-breadcrumbs"
       body_class: "page-disability"
+  - scope:
+      type: "veterans-choice"
+    values:
+      layout: "page-breadcrumbs"
   - scope:
       path: "disability-benefits/conditions/exposure-to-hazardous-materials"
     values:
