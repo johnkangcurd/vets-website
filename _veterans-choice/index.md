@@ -20,10 +20,10 @@ template: 1-topic-landing
         <div class="action-bar">
             <div class="row">
                 <div class="small-12 medium-7 columns">
-                        <p class="left">Are you a Provider? Learn more about the Choice Program and how you can join.</p>
+                    <p class="left">Are you a Provider? Learn more about the Choice Program and how you can join.</p>
                 </div>
                 <div class="small-12 columns medium-5">
-                    <a href="/disability-benefits/apply-for-benefits/" class="usa-button-primary va-button-primary usa-button-big">Choice Program for Providers</a>
+                    <a href="/veterans-choice/providers/" class="usa-button-primary va-button-primary usa-button-big">Choice Program for Providers</a>
                 </div>
             </div>
         </div>
@@ -78,19 +78,18 @@ template: 1-topic-landing
             </div>
         </div>
 
-
         <div class="row">
             <div class="small-12 columns">
                 <div class="section-nav">
                     <ul class="small-block-grid-1 medium-block-grid-3 cards small">
                         <li>
-                            <a href="/disability-benefits/conditions/">
+                            <a href="/veterans-choice/faqs/">
                                 <h4 class="alternate">FAQs for Veterans</h4>
                                 <span>Frequently asked questions about the Veterans Choice Program.</span>
                             </a>
                         </li>
                         <li>
-                            <a href="/disability-benefits/claims-process/">
+                            <a href="/veterans-choice/providers/">
                                 <h4 class="alternate">Veterans Choice Program for Providers</h4>
                                 <span>Learn about the Veterans Choice Program and join as an authorized Choice provider.</span>
                             </a>
