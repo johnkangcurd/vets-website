@@ -23,7 +23,7 @@ template: 1-topic-landing
                 </div>
                 <div class="small-12 columns">
                     <div class="actions">
-                        <p style="display: inline">Are you a Provider? Learn more about the Choice Program and how you can join.</p>
+                        <span>Are you a Provider? Learn more about the Choice Program and how you can join.</span>
                         <a href="/disability-benefits/apply-for-benefits/" class="usa-button-primary usa-button-big">Choice Program for Providers</a>
                     </div>
                 </div>
