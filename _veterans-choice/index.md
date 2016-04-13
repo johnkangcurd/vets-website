@@ -30,57 +30,56 @@ template: 1-topic-landing
             </div>
         </div>
 
-        <div class="row">
-            <div class="small-12 columns">
-                <div class="row">
-                    <div class="small-12 columns margin top">
-                        <h3 id="the-choice-process">The Choice Process</h3>
-                        <ol class="process">
-                            <li class="step one wow fadein animated">
-                                <div>
-                                    <h5>Determining Eligibility</h5>
-                                    <p>If you are already enrolled in VA healthcare and must wait more than 30 days for a VA appointment, or have difficulty reaching the closest VA medical facility, you may be eligible to use the Veterans Choice program.
-                                    </p>
-                                    <a href="">Learn about Determining Eligibility</a>
-                                </div>
-                            </li>
-                            <li class="step two wow fadein animated">
-                                <div>
-                                    <h5>Appointment Scheduling</h5>
-                                    <p>To get started, you’ll need to pick a Choice health care physician, gather some information and give us a call. We will work with you to ensure you are approved for care in your community and to schedule your appointment with an authorized Choice provider. This process could take 7-10 days.
-                                    </p>
-                                    <a href="">Learn about Appointment Scheduling</a>
-                                </div>
-                            </li>
-                            <li class="step three wow fadein animated">
-                                <div>
-                                    <h5>During an Appointment</h5>
-                                    <p>We want to make your doctor’s visit as efficient as possible. To ensure a smooth doctor’s visit, you may need to bring certain information to validate your participation in the Veterans Choice Program.
-                                    </p>
-                                    <a href="">Learn about During an Appointment</a>
-                                </div>
-                            </li>
-                            <li class="step four wow fadein animated">
-                                <div>
-                                    <h5>Filling Prescriptions</h5>
-                                    <p>This step will walk you through what you need to have your prescriptions filled.  In order for VA to cover the cost of your prescription, your doctor must prescribe a medication on the VA National Formulary List and the prescription must be filled at a VA pharmacy.
-                                    </p>
-                                    <a href="">Learn more about Filling Prescriptions</a>
-                                </div>
-                            </li>
-                            <li class="step last five wow fadein animated">
-                                <div>
-                                    <h5>After an Appointment</h5>
-                                    <p>This step walks you through what to expect after your appointment. Depending on the care provided, you may have different billing requirements, reimbursement processes, and out-of-pocket costs.
-                                    </p>
-                                    <a href="">Learn about After an Appointment</a>
-                                </div>
-                            </li>
-                        </ol>
-                    </div>
+        <div class="section secondary">
+            <div class="row">
+                <div class="small-12 columns margin top">
+                    <h3 id="the-choice-process">The Choice Process</h3>
+                    <ol class="process">
+                        <li class="step one wow fadein animated">
+                            <div>
+                                <h5>Determining Eligibility</h5>
+                                <p>If you are already enrolled in VA healthcare and must wait more than 30 days for a VA appointment, or have difficulty reaching the closest VA medical facility, you may be eligible to use the Veterans Choice program.
+                                </p>
+                                <a href="">Learn about Determining Eligibility</a>
+                            </div>
+                        </li>
+                        <li class="step two wow fadein animated">
+                            <div>
+                                <h5>Appointment Scheduling</h5>
+                                <p>To get started, you’ll need to pick a Choice health care physician, gather some information and give us a call. We will work with you to ensure you are approved for care in your community and to schedule your appointment with an authorized Choice provider. This process could take 7-10 days.
+                                </p>
+                                <a href="">Learn about Appointment Scheduling</a>
+                            </div>
+                        </li>
+                        <li class="step three wow fadein animated">
+                            <div>
+                                <h5>During an Appointment</h5>
+                                <p>We want to make your doctor’s visit as efficient as possible. To ensure a smooth doctor’s visit, you may need to bring certain information to validate your participation in the Veterans Choice Program.
+                                </p>
+                                <a href="">Learn about During an Appointment</a>
+                            </div>
+                        </li>
+                        <li class="step four wow fadein animated">
+                            <div>
+                                <h5>Filling Prescriptions</h5>
+                                <p>This step will walk you through what you need to have your prescriptions filled.  In order for VA to cover the cost of your prescription, your doctor must prescribe a medication on the VA National Formulary List and the prescription must be filled at a VA pharmacy.
+                                </p>
+                                <a href="">Learn more about Filling Prescriptions</a>
+                            </div>
+                        </li>
+                        <li class="step last five wow fadein animated">
+                            <div>
+                                <h5>After an Appointment</h5>
+                                <p>This step walks you through what to expect after your appointment. Depending on the care provided, you may have different billing requirements, reimbursement processes, and out-of-pocket costs.
+                                </p>
+                                <a href="">Learn about After an Appointment</a>
+                            </div>
+                        </li>
+                    </ol>
                 </div>
             </div>
         </div>
+
 
         <div class="row">
             <div class="small-12 columns">
