@@ -97,7 +97,7 @@ defaults:
   - scope:
       type: "veterans-choice"
     values:
-      layout: "page-breadcrumbs"
+      layout: "page-vetschoice"
   - scope:
       path: "disability-benefits/conditions/exposure-to-hazardous-materials"
     values:
