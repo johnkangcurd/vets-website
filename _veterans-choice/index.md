@@ -19,13 +19,11 @@ template: 1-topic-landing
 
         <div class="section do">
             <div class="row">
-                <div class="columns">
+                <div class="small-12 medium-7 columns">
+                        <p>Are you a Provider? Learn more about the Choice Program and how you can join.</p>
                 </div>
-                <div class="small-12 columns">
-                    <div class="actions">
-                        <span>Are you a Provider? Learn more about the Choice Program and how you can join.</span>
-                        <a href="/disability-benefits/apply-for-benefits/" class="usa-button-primary usa-button-big">Choice Program for Providers</a>
-                    </div>
+                <div class="small-12 columns medium-5">
+                    <a href="/disability-benefits/apply-for-benefits/" class="usa-button-primary va-button-primary usa-button-big">Choice Program for Providers</a>
                 </div>
             </div>
         </div>
@@ -40,7 +38,7 @@ template: 1-topic-landing
                                 <h5>Determining Eligibility</h5>
                                 <p>If you are already enrolled in VA healthcare and must wait more than 30 days for a VA appointment, or have difficulty reaching the closest VA medical facility, you may be eligible to use the Veterans Choice program.
                                 </p>
-                                <a href="">Learn about Determining Eligibility</a>
+                                <a href="/veterans-choice/determining-eligibility/">Learn about Determining Eligibility</a>
                             </div>
                         </li>
                         <li class="step two wow fadein animated">
@@ -48,7 +46,7 @@ template: 1-topic-landing
                                 <h5>Appointment Scheduling</h5>
                                 <p>To get started, you’ll need to pick a Choice health care physician, gather some information and give us a call. We will work with you to ensure you are approved for care in your community and to schedule your appointment with an authorized Choice provider. This process could take 7-10 days.
                                 </p>
-                                <a href="">Learn about Appointment Scheduling</a>
+                                <a href="/veterans-choice/appointment-scheduling/">Learn about Appointment Scheduling</a>
                             </div>
                         </li>
                         <li class="step three wow fadein animated">

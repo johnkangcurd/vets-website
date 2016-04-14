@@ -114,11 +114,21 @@ template: 1-topic-landing
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="small-12 columns"><div><a href="">View all Eligibility FAQs</a></div></div>
+            </div>
         </div>
-        <div class="row">
-            <div class="small-12 columns"><div><a href="">View all Eligibility FAQs</a></div></div>
+
+    </div>
+
+    <div class="section one">
+        <div class="section margin top">
+            <div class="row">
+                <a href="/veterans-choice/appointment-scheduling/" class="usa-button-primary usa-button-big">Next: Appointment Scheduling</a>
+            </div>
         </div>
     </div>
+
 
 
 
