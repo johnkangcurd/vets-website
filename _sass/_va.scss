@@ -583,7 +583,17 @@ background: rgba(255,255,255,.85);
     h3 {color: darken($color-green, 10);}
     clear: both;
   }
-  &.three {clear: both; padding: 2em 0;}
+  &.three {
+    clear: both;
+    padding: 2em 0;
+  }
+  &.faq {
+    padding: 2em 0 0 0;
+    ul {
+      margin: 0 !important;
+    }
+    ul li {list-style: none !important;}
+  }
 }
 
 
@@ -1779,6 +1789,9 @@ span {
     color: #fff;
     display: inline-block;
   }
+  h4 {
+    line-height: 1;
+  }
 }
 
 
@@ -2723,3 +2736,4 @@ pre[class*="language-"]  {
   font-size: .9em;
   line-height: inherit !important;
 }
+
