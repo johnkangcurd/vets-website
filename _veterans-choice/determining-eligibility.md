@@ -5,15 +5,25 @@ template: 1-topic-landing
 
 <div class="main" role="main" markdown="0">
 
-    <div class="section do">
+    <div class="action-bar">
         <div class="row">
             <div class="small-12 columns">
-                <p>To talk to a Choice representative, call (866) 606-8198 Mon-Fri 8am-5pm</p>
+                <p class="left">To talk to a Choice representative, call (866) 606-8198 Mon-Fri 8am-5pm</p>
             </div>
         </div>
     </div>
     <div class="section process-nav">
-        <div>horizontal nav here</div>
+        <div class="row">
+            <div class="small-12 columns">
+                <ul class="process-horizontal">
+                    <li><a href="/veterans-choice/determining-eligibility/">Determining Eligibility</a></li>
+                    <li><a href="/veterans-choice/appointment-scheduling/">Appointment Scheduling</a></li>
+                    <li><a href="/veterans-choice/during-appointment/">During an Appointment</a></li>
+                    <li><a href="/veterans-choice/filling-prescriptions/">Filling Prescriptions</a></li>
+                    <li><a href="/veterans-choice/after-appointment/">After an Appointment</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
     <div class="section one" markdown="0">
         <div class="section primary" markdown="0">
@@ -61,7 +71,7 @@ template: 1-topic-landing
         </div>
     </div>
 
-    <div class="section do">
+    <div class="action-bar">
         <div class="row">
             <div class="medium-8 columns">
                 <p>The eligibility tool can help determine if you qualify for the Veterans Choice Program</p>

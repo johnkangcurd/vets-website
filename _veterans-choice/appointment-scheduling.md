@@ -5,15 +5,25 @@ template: 1-topic-landing
 
 <div class="main" role="main" markdown="0">
 
-    <div class="section do">
+    <div class="action-bar">
         <div class="row">
             <div class="small-12 columns">
-                <p>To talk to a Choice representative, call (866) 606-8198 Mon-Fri 8am-5pm</p>
+                <p class="left">To talk to a Choice representative, call (866) 606-8198 Mon-Fri 8am-5pm</p>
             </div>
         </div>
     </div>
     <div class="section process-nav">
-        <div>horizontal nav here</div>
+        <div class="row">
+            <div class="small-12 columns">
+                <ul class="process-horizontal">
+                    <li><a href="/veterans-choice/determining-eligibility/">Determining Eligibility</a></li>
+                    <li><a href="/veterans-choice/appointment-scheduling/">Appointment Scheduling</a></li>
+                    <li><a href="/veterans-choice/during-appointment/">During an Appointment</a></li>
+                    <li><a href="/veterans-choice/filling-prescriptions/">Filling Prescriptions</a></li>
+                    <li><a href="/veterans-choice/after-appointment/">After an Appointment</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
     <div class="section one" markdown="0">
         <div class="section primary" markdown="0">
@@ -28,11 +38,8 @@ template: 1-topic-landing
                         <li>
                             <div class="card info-graphic">
                                 <div class="row">
-                                    <div class="small-10 columns">
+                                    <div class="small-12 columns">
                                         <h4>Personal Details</h4>
-                                    </div>
-                                    <div class="small-2 columns">
-
                                     </div>
                                 </div>
                                 <div class="row">
@@ -51,7 +58,7 @@ template: 1-topic-landing
                             <div class="card info-graphic">
                                 <div class="row">
                                     <div class="small-10 columns">
-                                        <h4>Insurance <br/> Information</h4>
+                                        <h4>Insurance Information</h4>
                                     </div>
                                     <div class="small-2 columns">
 
@@ -69,7 +76,7 @@ template: 1-topic-landing
                             <div class="card info-graphic">
                                 <div class="row">
                                     <div class="small-10 columns">
-                                        <h4>Physician <br/> Preferences</h4>
+                                        <h4>Physician Preferences</h4>
                                     </div>
                                     <div class="small-2 columns">
 
@@ -88,10 +95,10 @@ template: 1-topic-landing
         </div>
     </div>
 
-    <div class="section do">
+    <div class="action-bar">
         <div class="row">
             <div class="medium-8 columns">
-                <p>You can search for a Choice provider here, or a Choice representative can help you find one</p>
+                <p class="left">You can search for a Choice provider here, or a Choice representative can help you find one</p>
             </div>
             <div class="medium-4 columns">
                 <a href="" class="usa-button-primary va-button-primary usa-button-big">Find a Provider</a>
@@ -100,7 +107,7 @@ template: 1-topic-landing
     </div>
     <div class="section one">
         <div class="row">
-            <div class="small-12 columns margin top">
+            <div class="small-12 columns ">
                 <h3 id="what-to-expect-distance-eligible-process">What to Expect for Distance-Eligible Veterans</h3>
                 <ol class="process">
                     <li class="step one wow fadein animated">
@@ -128,7 +135,7 @@ template: 1-topic-landing
             </div>
         </div>
         <div class="row">
-            <div class="small-12 columns margin top">
+            <div class="small-12 columns ">
                 <h3 id="what-to-expect-wait-list-eligible-process">What to Expect for Wait List-Eligible Veterans</h3>
                 <ol class="process">
                     <li class="step one wow fadein animated">
@@ -155,8 +162,6 @@ template: 1-topic-landing
                 </ol>
             </div>
         </div>
-    </div>
-    <div class="section one" markdown="0">
         <div class="section faq">
             <div class="row">
                 <div class="small-12 columns">
@@ -202,8 +207,9 @@ template: 1-topic-landing
             <div class="small-12 columns"><div><a href="">View all Scheduling FAQs</a></div></div>
         </div>
     </div>
+
     <div class="section one">
-        <div class="section margin top">
+        <div class="section ">
             <div class="row">
                 <a href="/veterans-choice/determining-eligibility/" class="usa-button-primary usa-button-big">Previous: Determining Eligibility</a>
                 <a href="/veterans-choice/during-appointment/" class="usa-button-primary usa-button-big">Next: During an Appointment</a>
