@@ -199,7 +199,7 @@ template: 2-detailed-landing
             </div>
         </div>
         <div class="row">
-            <div class="small-12 columns"><div><a href="">View all Appointment FAQs</a></div></div>
+            <div class="small-12 columns"><div><a href="">View all Prescription FAQs</a></div></div>
         </div>
     </div>
 
