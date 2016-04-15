@@ -54,7 +54,7 @@ template: 1-topic-landing
                                 <h5>During an Appointment</h5>
                                 <p>We want to make your doctor’s visit as efficient as possible. To ensure a smooth doctor’s visit, you may need to bring certain information to validate your participation in the Veterans Choice Program.
                                 </p>
-                                <a href="">Learn about During an Appointment</a>
+                                <a href="/veterans-choice/during-appointment/">Learn about During an Appointment</a>
                             </div>
                         </li>
                         <li class="step four wow fadein animated">
@@ -62,7 +62,7 @@ template: 1-topic-landing
                                 <h5>Filling Prescriptions</h5>
                                 <p>This step will walk you through what you need to have your prescriptions filled.  In order for VA to cover the cost of your prescription, your doctor must prescribe a medication on the VA National Formulary List and the prescription must be filled at a VA pharmacy.
                                 </p>
-                                <a href="">Learn more about Filling Prescriptions</a>
+                                <a href="/veterans-choice/filling-prescriptions/">Learn more about Filling Prescriptions</a>
                             </div>
                         </li>
                         <li class="step last five wow fadein animated">
@@ -70,7 +70,7 @@ template: 1-topic-landing
                                 <h5>After an Appointment</h5>
                                 <p>This step walks you through what to expect after your appointment. Depending on the care provided, you may have different billing requirements, reimbursement processes, and out-of-pocket costs.
                                 </p>
-                                <a href="">Learn about After an Appointment</a>
+                                <a href="/veterans-choice/after-appointment/">Learn about After an Appointment</a>
                             </div>
                         </li>
                     </ol>
