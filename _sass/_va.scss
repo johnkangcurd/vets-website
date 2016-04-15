@@ -589,7 +589,6 @@ background: rgba(255,255,255,.85);
     padding: 2em 0;
   }
   &.faq {
-    padding: 2em 0 0 0;
     ul {
       margin: 0 !important;
     }
@@ -2130,6 +2129,9 @@ h4.highlight {
   text-align: right;
   background: $color-gray-lightest;
   padding: .5em 0;
+  p.left{
+    text-align: left;
+  }
 }
 
 // TODO: Deprecate .action-bar a.usa-button-primary.
