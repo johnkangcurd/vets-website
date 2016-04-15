@@ -177,8 +177,8 @@ template: 2-detailed-landing
     <div class="section one">
         <div class="section margin top">
             <div class="row">
-                <a href="/veterans-choice/determining-eligibility/" class="usa-button-primary usa-button-big">Previous: Determining Eligibility</a>
-                <a href="/veterans-choice/during-appointment/" class="usa-button-primary usa-button-big">Next: During an Appointment</a>
+                <a href="/veterans-choice/appointment-scheduling/" class="usa-button-primary usa-button-big">Previous: Appointment Scheduling</a>
+                <a href="/veterans-choice/filling-prescriptions/" class="usa-button-primary usa-button-big">Next: Filling Prescriptions</a>
             </div>
         </div>
     </div>
