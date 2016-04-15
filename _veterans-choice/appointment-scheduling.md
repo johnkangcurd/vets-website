@@ -59,7 +59,6 @@ template: 1-topic-landing
                                 <div class="row">
                                     <div class="small-10 columns">
                                         <h4>Insurance Information</h4>
-
                                     </div>
                                     <div class="small-2 columns">
 
@@ -163,8 +162,6 @@ template: 1-topic-landing
                 </ol>
             </div>
         </div>
-    </div>
-    <div class="section one" markdown="0">
         <div class="section faq">
             <div class="row">
                 <div class="small-12 columns">
@@ -210,6 +207,7 @@ template: 1-topic-landing
             <div class="small-12 columns"><div><a href="">View all Scheduling FAQs</a></div></div>
         </div>
     </div>
+
     <div class="section one">
         <div class="section ">
             <div class="row">
