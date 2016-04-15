@@ -17,10 +17,10 @@ template: 1-topic-landing
             </div>
         </div>
 
-        <div class="section do">
+        <div class="action-bar">
             <div class="row">
                 <div class="small-12 medium-7 columns">
-                        <p>Are you a Provider? Learn more about the Choice Program and how you can join.</p>
+                        <p class="left">Are you a Provider? Learn more about the Choice Program and how you can join.</p>
                 </div>
                 <div class="small-12 columns medium-5">
                     <a href="/disability-benefits/apply-for-benefits/" class="usa-button-primary va-button-primary usa-button-big">Choice Program for Providers</a>
