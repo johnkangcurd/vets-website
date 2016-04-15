@@ -1,0 +1,30 @@
+@import "foundation/components/inline-lists";
+
+#content .section.choice-primary {
+  background: none;
+  padding: 2em 0;
+  background-color: $color-primary-darkest;
+}
+
+ul.process-horizontal {
+  @include inline-list;
+}
+.process-nav {
+  background: white;
+  padding: .5em 0;
+}
+
+.pad-top {
+  padding: 1.5em 0 0 0 !important;
+}
+
+
+
+
+li .card.info-graphic{
+  line-height:1.5;
+  h4 {
+    line-height: 1;
+  }
+}
+
