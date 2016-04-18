@@ -18,6 +18,14 @@ ul.process-horizontal {
   padding: 1.5em 0 0 0 !important;
 }
 
+#content .section.faq-mast {
+  padding: 2em 0;
+  background: $color-gray-lightest;
+  h1, h2, h3, h4, h5, h6, p, li {color: $color-primary-darkest;}
+  color: $color-primary-darkest;
+  ul li {list-style: square;}
+}
+
 
 
 
