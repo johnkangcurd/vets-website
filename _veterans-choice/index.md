@@ -84,13 +84,13 @@ template: 1-topic-landing
                 <div class="section-nav">
                     <ul class="small-block-grid-1 medium-block-grid-3 cards small">
                         <li>
-                            <a href="/disability-benefits/conditions/">
+                            <a href="/veterans-choice/faqs/">
                                 <h4 class="alternate">FAQs for Veterans</h4>
                                 <span>Frequently asked questions about the Veterans Choice Program.</span>
                             </a>
                         </li>
                         <li>
-                            <a href="/disability-benefits/claims-process/">
+                            <a href="">
                                 <h4 class="alternate">Veterans Choice Program for Providers</h4>
                                 <span>Learn about the Veterans Choice Program and join as an authorized Choice provider.</span>
                             </a>
