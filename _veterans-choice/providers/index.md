@@ -1,5 +1,5 @@
 ---
-title: Veteran's Choice Program
+title: For Providers
 permalink: /veterans-choice/providers/index.html
 template: 1-topic-landing
 ---
@@ -104,19 +104,19 @@ template: 1-topic-landing
                     <div class="section-nav">
                         <ul class="small-block-grid-1 medium-block-grid-3 cards small">
                             <li>
-                                <a href="/veterans-choice/faqs/">
+                                <a href="/veterans-choice/providers/seeing-vcp-patients/">
                                     <h4 class="alternate">Seeing Veterans Choice Patients</h4>
                                     <span>Learn about processes and requirements for seeing Choice Veterans.</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="">
+                                <a href="/veterans-choice/providers/post-appointment-process/">
                                     <h4 class="alternate">Post-Appointment Process</h4>
                                     <span>Learn about billing, submitting medical documentation and Claims processing.</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="">
+                                <a href="/veterans-choice/providers/faqs/">
                                     <h4 class="alternate">FAQs for Providers</h4>
                                     <span>Frequently asked questions for Veterans Choice Providers.</span>
                                 </a>
