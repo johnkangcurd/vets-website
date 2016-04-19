@@ -49,6 +49,16 @@ title: FAQs for Veterans
                             </li>
                             <li>
                                 <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-0-2">
+                                    How is the 40 mile calculation made?
+                                </button>
+                                <div id="collapsible-0-2" aria-hidden="true" class="usa-accordion-content">
+                                    <p>
+                                        This calculation is based on the distance from your permanent residence (or an active temporary address) to the closest VA facility-- including Community-Based Outpatient Clinics and VA Medical Centers. You are eligible if you live more than 40 miles driving distance from the closest VA medical facility that has a full-time primary care physician.
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-0-2">
                                     I didn’t get my Choice Card, what do I do?
                                 </button>
                                 <div id="collapsible-0-2" aria-hidden="true" class="usa-accordion-content">
@@ -176,7 +186,7 @@ title: FAQs for Veterans
                                 <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-2-0">
                                     How do I get my prescription filled if I use the Choice Program?
                                 </button>
-                                <div id="collapsible-20" aria-hidden="true" class="usa-accordion-content">
+                                <div id="collapsible-2-0" aria-hidden="true" class="usa-accordion-content">
                                     <p>
                                         The Choice Program non-VA Provider will issue a prescription with up to a 14 day supply of a National Formulary drug. You may have the 14 day supply prescription filled at any non-VA pharmacy of your choosing and may submit a request for reimbursement to VA. For prescriptions needed past 14 days, please follow standard procedures to fill a prescription at the VA pharmacy.
                                     </p>
