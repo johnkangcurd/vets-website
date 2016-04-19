@@ -23,7 +23,7 @@ template: 1-topic-landing
                         <p class="left">Are you a Provider? Learn more about the Choice Program and how you can join.</p>
                 </div>
                 <div class="small-12 columns medium-5">
-                    <a href="/disability-benefits/apply-for-benefits/" class="usa-button-primary va-button-primary usa-button-big">Choice Program for Providers</a>
+                    <a href="/veterans-choice/providers/" class="usa-button-primary va-button-primary usa-button-big">Choice Program for Providers</a>
                 </div>
             </div>
         </div>
@@ -90,7 +90,7 @@ template: 1-topic-landing
                             </a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="/veterans-choice/providers/">
                                 <h4 class="alternate">Veterans Choice Program for Providers</h4>
                                 <span>Learn about the Veterans Choice Program and join as an authorized Choice provider.</span>
                             </a>
