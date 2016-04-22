@@ -174,7 +174,7 @@ template: 1-topic-landing
                                 </button>
                                 <div id="collapsible-0" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        If you are a distance-eligible Veteran, call the Choice Program Call Center at 866-606-8198 to set up an appointment. If you are a wait list-eligible Veteran, you will receive a phone call from a VA partner (a non-VA phone number) to help set up your appointment.
                                     </p>
                                 </div>
                             </li>
@@ -184,7 +184,7 @@ template: 1-topic-landing
                                 </button>
                                 <div id="collapsible-1" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        No, please call the Choice Program call center at 866-606-8198.
                                     </p>
                                 </div>
                             </li>
@@ -194,7 +194,7 @@ template: 1-topic-landing
                                 </button>
                                 <div id="collapsible-2" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        Yes. VA is actively seeking to expand its network of community physicians. Your doctor can call 866-606-8198 to learn more about the Veterans Choice Program and to become an approved Choice physician. If your preferred physician is not available under the Program, we will recommend other physicians in your area. Your doctor can find more information here: <a href="http://www.va.gov/opa/choiceact/documents/FactSheets/VACAA_Provider_Fact_Sheet_Choice_Program_508c_Internet.pdf" target="_blank"> www.va.gov/opa/choiceact/documents/FactSheets/VACAA_Provider_Fact_Sheet_Choice_Program_508c_Internet.pdf</a>
                                     </p>
                                 </div>
                             </li>

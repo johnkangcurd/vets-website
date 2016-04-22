@@ -114,7 +114,7 @@ template: 2-detailed-landing
                                 </button>
                                 <div id="collapsible-0" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        No, not at all. You do not have to choose between the two—the Choice Program is here to make it easier to access the care you need, close to home.
                                     </p>
                                 </div>
                             </li>
@@ -124,7 +124,7 @@ template: 2-detailed-landing
                                 </button>
                                 <div id="collapsible-1" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        Yes, if you are receiving non-service connected care. Your private health insurance will be the primary payer for non-service connected care and you may be responsible for the health insurance deductibles cost-shares. If you are receiving service connected care, you will not be responsible for your deductible as VA is primarily responsible for service connected care received through the Choice Program.
                                     </p>
                                 </div>
                             </li>
@@ -134,7 +134,7 @@ template: 2-detailed-landing
                                 </button>
                                 <div id="collapsible-2" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        No, these plans are not considered Other Health Insurance for purposes of the Choice Program. You will not be billed by the VCP provider for any of the cost-shares associated with these plans.
                                     </p>
                                 </div>
                             </li>
@@ -144,7 +144,7 @@ template: 2-detailed-landing
                                 </button>
                                 <div id="collapsible-3" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        VA copays will be billed by VA after the appointment. If you currently pay VA copayments you will be subject to the same copayment requirements under the Choice Program. Your VA copay will be determined by VA after the care is provided.
                                     </p>
                                 </div>
                             </li>

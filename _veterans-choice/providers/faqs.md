@@ -357,9 +357,8 @@ title: FAQs for Veterans
                                     What are the requirements for returning medical documentation?
                                 </button>
                                 <div id="collapsible-6-1" aria-hidden="true" class="usa-accordion-content">
-                                    <p>
-                                        Yes, if you are receiving non-service connected care. Your private health insurance will be the primary payer for non-service connected care and you may be responsible for the health insurance deductibles cost-shares. If you are receiving service connected care, you will not be responsible for your deductible as VA is primarily responsible for service connected care received through the Choice Program.
-                                    </p>
+                                    <p>Timely return of medical documentation is necessary to ensure coordination of care with VA providers. Please return medical documentation within the timeframe indicated in each individual provider packet to allow sufficient time to review and deliver the medical documentation to VA, per the contract requirement.</p>
+                                    <p>Using the cover sheet provided by Health Net, fax the complete documentation within the timeframe indicated in each individual provider packet to 1-855-300-1705.</p>
                                 </div>
                             </li>
                             <li>
