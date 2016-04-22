@@ -165,17 +165,16 @@ template: 2-detailed-landing
                         <ul class="usa-unstyled-list">
                             <li>
                                 <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-0">
-                                    Will I pay a co-pay at the Choice appointment?
+                                    How do I get my prescription filled if I use the Choice Program?
                                 </button>
                                 <div id="collapsible-0" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
-                                    </p>
+                                        The Choice Program non-VA Provider will issue a prescription with up to a 14 day supply of a National Formulary drug. You may have the 14 day supply prescription filled at any non-VA pharmacy of your choosing and may submit a request for reimbursement to VA. For prescriptions needed past 14 days, please follow standard procedures to fill a prescription at the VA pharmacy.                                    </p>
                                 </div>
                             </li>
                             <li>
                                 <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-1">
-                                    Where do I find my Authorization number, or I lost my Authorization letter?
+                                    Where can I get a copy of my Authorization Letter?
                                 </button>
                                 <div id="collapsible-1" aria-hidden="true" class="usa-accordion-content">
                                     <p>
@@ -185,9 +184,29 @@ template: 2-detailed-landing
                             </li>
                             <li>
                                 <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-2">
-                                    I need additional care that I was not originally approved for, what do I do?
+                                    How do I get reimbursed for out-of-pocket prescription costs?
                                 </button>
                                 <div id="collapsible-2" aria-hidden="true" class="usa-accordion-content">
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-3">
+                                    What if my prescription is not on the VA national formulary list?
+                                </button>
+                                <div id="collapsible-3" aria-hidden="true" class="usa-accordion-content">
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <button class="usa-button-unstyled" aria-expanded="false" aria-controls="collapsible-4">
+                                    What is the process for prosthetics and durable medical equipment (DME)?
+                                </button>
+                                <div id="collapsible-4" aria-hidden="true" class="usa-accordion-content">
                                     <p>
                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
                                     </p>

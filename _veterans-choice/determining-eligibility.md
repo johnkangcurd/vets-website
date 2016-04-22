@@ -96,7 +96,7 @@ template: 1-topic-landing
                                 </button>
                                 <div id="collapsible-0" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        Call the Choice Program Call Center at 866-606-8198 for more information.
                                     </p>
                                 </div>
                             </li>
@@ -106,7 +106,7 @@ template: 1-topic-landing
                                 </button>
                                 <div id="collapsible-1" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        If you are a distance-eligible Veteran, call the Choice Program Call Center at 866-606-8198 to set up an appointment. If you are a wait list-eligible Veteran, you will receive a phone call from a VA partner (a non-VA phone number) to help set up your appointment.
                                     </p>
                                 </div>
                             </li>
@@ -116,7 +116,7 @@ template: 1-topic-landing
                                 </button>
                                 <div id="collapsible-2" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        Yes, there are other care in the community programs you may be able to use. Each program has its own eligibility requirements. Talk to your VA medical physician or click here <a href="http://www.va.gov/purchasedcare/" target="_blank">for more details about these programs</a>.
                                     </p>
                                 </div>
                             </li>

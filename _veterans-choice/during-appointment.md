@@ -140,7 +140,7 @@ template: 2-detailed-landing
                                 </button>
                                 <div id="collapsible-0" aria-hidden="true" class="usa-accordion-content">
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo et diam aliquet volutpat quis eu dolor. Nulla eget commodo tellus, in dignissim massa. Sed tortor diam, fringilla sed.
+                                        VA copays will be billed by VA after the appointment. If you currently pay VA copayments you will be subject to the same copayment requirements under the Choice Program. Your VA copay will be determined by VA after the care is provided.
                                     </p>
                                 </div>
                             </li>
