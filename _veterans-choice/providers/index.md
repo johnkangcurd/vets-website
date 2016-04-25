@@ -54,7 +54,18 @@ template: 1-topic-landing
                                 <h5>Establish a contract</h5>
                                 <p>If you meet the requirements, and agree to the terms, the next step is to contact the appropriate contractor to establish a provider contract. Based on your geographic location you will either work with TriWest or Health Net.</p>
                                 <p>Enter your zip code here to determine who you will contact </p>
-                                <input type="text">
+                            </div>
+                            <div class="network-check-form" >
+                                <div class="row collapse">
+                                    <div class="small-6 columns">
+                                        <input type="text">
+                                    </div>
+                                    <div class="small-6 columns">
+                                        <input type="button" href="#"  value="Check Zip Code" class=""/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
                                 <div id="zip-code-check-results">
                                 </div>
                             </div>
@@ -63,7 +74,7 @@ template: 1-topic-landing
                 </div>
             </div>
         </div>
-        <div class="section">
+        <div class="section one">
             <div class="row">
                 <div class="small-12 columns">
                     <h3>Submit Your Application to Join the Veterans Choice Program</h3>

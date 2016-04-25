@@ -36,3 +36,52 @@ li .card.info-graphic{
   }
 }
 
+
+#zip-network-tool {
+  padding: 1.1em 0;
+  text-align: right;
+  label {
+    position: absolute;
+    left: -9999em;
+    font-size: 1px;
+    overflow: hidden;
+    float: left;
+  }
+  input[type="text"] {
+    height: 3em;
+    margin: 0;
+    width: 100%;
+    color: $color-gray-dark;
+    padding: .2em;
+    box-sizing: border-box;
+  }
+
+  input[type="button"] {
+    margin: 0;
+    height: 3em;
+    text-align: center !important;
+    width: 100%;
+    padding: 0;
+    border-radius: 0px 3px 3px 0px;
+  }
+
+}
+
+.network-check-form {
+  position: absolute;
+
+  input[type="button"] {
+    margin: 0;
+    height: 3em;
+    width: 100%;
+    border-radius: 0px 3px 3px 0px;
+  }
+
+  input[type="text"] {
+    height: 3em;
+    margin: 0;
+  }
+
+  //media query for small screen to
+  //restyle button with rounded corners
+}
