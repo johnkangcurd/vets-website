@@ -195,7 +195,4 @@ template: 1-topic-landing
                 <a href="/veterans-choice/appointment-scheduling/" class="usa-button-primary usa-button-big">Next: Appointment Scheduling</a>
             </div>
         </div>
-
     </div>
-
-
