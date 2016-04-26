@@ -14,14 +14,72 @@ template: 2-detailed-landing
     </div>
     <div class="section process-nav">
         <div class="row">
-            <div class="small-12 columns">
-                <ul class="process-horizontal">
-                    <li><a href="/veterans-choice/determining-eligibility/">Determining Eligibility</a></li>
-                    <li><a href="/veterans-choice/appointment-scheduling/">Appointment Scheduling</a></li>
-                    <li><a href="/veterans-choice/during-appointment/">During an Appointment</a></li>
-                    <li><a href="/veterans-choice/filling-prescriptions/">Filling Prescriptions</a></li>
-                    <li><a href="/veterans-choice/after-appointment/">After an Appointment</a></li>
-                </ul>
+            <div class="small-12 large-10 small-offset-0 medium-offset-1 large-offset-2 end columns">
+                <div class="row process-horizontal collapse ">
+                    <div  class="small-12 medium-2 large-2 columns ">
+                        <div class="path-item" >
+                            <div class="step start">
+                                <div class="process-circle">
+                                    1
+                                </div>
+                            </div>
+                            <p class="step-title">
+                                <a href="/veterans-choice/determining-eligibility/">Determining Eligibility</a>
+                            </p>
+
+                        </div>
+                    </div>
+                    <div  class="small-12 medium-2 large-2 columns ">
+                        <div class="path-item">
+                            <div class="step">
+                                <div class="process-circle">
+                                    2
+                                </div>
+                            </div>
+                            <p class="step-title">
+                                <a href="/veterans-choice/appointment-scheduling/">Appointment Scheduling</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div  class="small-12 medium-2 large-2 columns">
+                        <div class="path-item">
+                            <div class="step">
+                                <div class="process-circle active">
+                                    3
+                                </div>
+                            </div>
+                            <p class="step-title">
+                                <a href="/veterans-choice/during-appointment/">During an Appointment</a>
+                            </p>
+
+                        </div>
+                    </div>
+                    <div  class="small-12 medium-2 large-2 columns">
+                        <div class="path-item ">
+                            <div class="step">
+                                <div class="process-circle ">
+                                    4
+                                </div>
+                            </div>
+                            <p class="step-title">
+                                <a href="/veterans-choice/filling-prescriptions/">Filling Prescriptions</a>
+                            </p>
+
+                        </div>
+                    </div>
+                    <div  class="small-12 medium-2 large-2 end columns ">
+                        <div class="path-item">
+                            <div class="step end">
+                                <div class="process-circle">
+                                    5
+                                </div>
+                            </div>
+                            <p class>
+                                <a href="/veterans-choice/after-appointment/">After an Appointment</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
