@@ -13,7 +13,7 @@ template: 1-topic-landing
         </div>
     </div>
     <div class="section" markdown="0">
-        <div class="section primary" markdown="0">
+        <div class="section primary choice-primary" markdown="0">
             <div class="row" markdown="0">
                 <div class="small-12 columns" markdown="0">
                     <h3>Overview</h3>

@@ -14,7 +14,7 @@ template: 2-detailed-landing
     </div>
     <div class="section process-nav">
         <div class="row">
-            <div class="small-12 large-10 small-offset-0 medium-offset-1 large-offset-2 end columns">
+            <div class="small-12 medium-10 small-offset-0 medium-offset-2 end columns">
                 <div class="row process-horizontal collapse ">
                     <div  class="small-12 medium-2 large-2 columns ">
                         <div class="path-item" >
