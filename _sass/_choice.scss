@@ -85,3 +85,75 @@ li .card.info-graphic{
   //media query for small screen to
   //restyle button with rounded corners
 }
+
+
+.process-circle {
+  background: #849097;
+  color: #fff;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  position: relative;
+  text-align: center;
+  font-weight: 700;
+  width: 2em;
+  height: 2em;
+  padding-top: .1em;
+  font-size: 1.5em;
+  margin: 30px auto 15px auto;
+  &.active {
+    background: $color-gold;
+  }
+}
+
+.process-horizontal {
+
+  .path-item {
+    position: relative;
+    text-align: center;
+    .step-title {
+      text-align: center;
+      margin: 0 auto;
+      float: none !important;
+    }
+    .step {
+      display: table;
+      white-space: nowrap;
+      &:before,
+      &:after {
+        border-top: 1em solid $color-gray-lightest;
+        content: '';
+        display: table-cell;
+        position: relative;
+        top: 2.8em;
+        width: 50%;
+      }
+      &:before { right: 1.5%; }
+      &:after { left: 1.5%; }
+
+    }
+  }
+}
+
+.step.start {
+  &:before {
+    border-top: 0 !important;
+  }
+}
+.step.end {
+  &:after {
+    border-top: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 40em) {
+  .process-horizontal{
+    .path-item {
+      .step {
+        &:before,
+        &:after {
+          border: 0;
+        }
+      }
+    }
+  }
+}
