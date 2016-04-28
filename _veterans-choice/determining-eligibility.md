@@ -74,7 +74,7 @@ template: 1-topic-landing
                                     5
                                 </div>
                             </div>
-                            <p class>
+                            <p class="step-title">
                                 <a href="/veterans-choice/after-appointment/">After an Appointment</a>
                             </p>
                         </div>
